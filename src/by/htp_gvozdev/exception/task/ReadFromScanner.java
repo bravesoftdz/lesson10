@@ -32,7 +32,7 @@ public class ReadFromScanner {
 				System.out.println(Integer.parseInt(arr[0]) / Integer.parseInt(arr[2]));
 				break;
 			default:
-				System.out.println("I don't know =)");
+				System.out.println("default");
 				break;
 			}
 
